@@ -11,6 +11,7 @@ The goal of this project was to build an Android App which could **Detect People
 - Jupyter Notebook where the model was created and trained. (This is actually a google colab notebook which was downloaded and put here).
 
 Static Notebook Link: https://github.com/rajtilakls2510/face_mask_detector/blob/master/Applications/Training_Notebook.ipynb
+
 Google colab Link: https://colab.research.google.com/drive/1iyeUiE1kCfsI6PkK1LCFHUz76AcIqUcZ?usp=sharing
 
 - Python Project which uses webcam to detect masks.
