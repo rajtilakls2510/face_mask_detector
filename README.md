@@ -1,6 +1,6 @@
 # Face Mask Detector
 
-<img src="https://github.com/rajtilakls2510/face_mask_detector/blob/master/Videos/Screenshot_2020-12-15-08-38-07-770_com.mxtech.videoplayer.ad.jpg" style="width: 200px">
+<img src="https://github.com/rajtilakls2510/face_mask_detector/blob/master/Videos/Screenshot_2020-12-15-08-38-07-770_com.mxtech.videoplayer.ad.jpg" width="200">
 
 ### Aim
     
