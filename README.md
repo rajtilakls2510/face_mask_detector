@@ -6,6 +6,12 @@
     
 The goal of this project was to build an Android App which could **Detect People with Mask or No Mask**.
 
+
+#### Here are some videos you can watch:
+- https://github.com/rajtilakls2510/face_mask_detector/blob/master/Videos/Video1-1.m4v
+
+- https://github.com/rajtilakls2510/face_mask_detector/blob/master/Videos/Video2-1.m4v
+
 ### Contents of this Repo
 
 - Jupyter Notebook where the model was created and trained. (This is actually a google colab notebook which was downloaded and put here).
