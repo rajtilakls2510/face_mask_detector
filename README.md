@@ -1,6 +1,6 @@
 # Face Mask Detector
 
-`TODO`: Demo Image
+<img src="https://github.com/rajtilakls2510/face_mask_detector/blob/master/Videos/Screenshot_2020-12-15-08-38-07-770_com.mxtech.videoplayer.ad.jpg">
 
 ### Aim
     
